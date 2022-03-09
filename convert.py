@@ -1,4 +1,4 @@
-FILE_NAME = "file.png"
+FILE_NAME = "mikasa.jpg"
 
 from PIL import Image
 import pyperclip
